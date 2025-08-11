@@ -6,7 +6,7 @@
 <p align="center">I'm a budding front-end developer, obsessive knitter and tea enthusiast.</p>
 </p>
 
----
+<p align="center">•·················•·················•·················•·················•</p>
 
 #### About Me
 
@@ -14,13 +14,9 @@
 - Currently learning **React**.
 - _Goals for 2025:_ Fill my repo with work I'm proud of.
 
-<br>
+<p align="center">•·················•·················•·················•·················•</p>
 
----
-
-<br>
-<p align="center">
-  <i>✨ Thanks for visiting! ✨</i>
+  <p align="center"><i>✨ Thanks for visiting! ✨</i>
 </p>
 <p align="center">
   <img src="imgs/frog.png" alt="Froggy"/>
