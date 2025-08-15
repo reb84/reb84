@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="imgs/banner.png" alt="Profile Banner" width="100%" />
-</p>
-
 <h3 align="center">Hi there, I'm Rebecca</h3>
 <p align="center">I'm a budding front-end developer, obsessive knitter and tea enthusiast.</p>
 </p>
+
+<p align="center">•·················•·················•·················•·················•</p>
 
 - I love working with **HTML**, **CSS**, and **Javascript**.
 - Currently learning **React**.
