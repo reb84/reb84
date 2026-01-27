@@ -6,7 +6,7 @@
 
 - I love working with **HTML**, **CSS**, and **Javascript**.
 - Currently learning **React**.
-- _Goals for 2025:_ Fill my repo with work I'm proud of.
+- _Goals for 2026:_ Fill my repo with work I'm proud of.
 
 <p align="center">•·················•·················•·················•·················•</p>
 
