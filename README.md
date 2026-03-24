@@ -20,9 +20,6 @@ You’ve wandered into **Rebecca’s GitHub Lair**, a snug little cavern full of
 
 ---
 
-## Seeking Fellow Adventurers
-Whether you’re a wandering bard, a rogue with a cool idea, or a wizard in need of a party member, feel free to send a message.  I’m always up for a quest.
-
 <p align="center">
   <img src="imgs/frog.png" alt="Froggy"/>
 </p>
