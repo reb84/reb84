@@ -1,17 +1,28 @@
-<h3 align="center">Hi there, I'm Rebecca</h3>
-<p align="center">I'm a budding front-end developer, obsessive knitter and tea enthusiast.</p>
-</p>
+## ✨ Greetings, Traveller!
+You’ve wandered into **Rebecca’s GitHub Lair**, a snug little cavern full of curious contraptions, half‑finished spells, and code held together by moss, vibes, and questionable arcane decisions.
 
-<p align="center">•·················•·················•·················•·················•</p>
+---
 
-- I love working with **HTML**, **CSS**, and **Javascript**.
-- Currently learning **React**.
-- _Goals for 2025:_ Fill my repo with work I'm proud of.
+## Current Quests
+- Crafting magical little projects that may or may not explode
+- Levelling up my skills like a wizard grinding XP in a forest
+- Practising my Tailwind sorcery and learning to wield its utility‑magic
+- Trying to get to grips with React, one component at a time
+- Collecting shiny bugs (the code kind… mostly)
 
-<p align="center">•·················•·················•·················•·················•</p>
+---
 
-  <p align="center"><i>✨ Thanks for visiting! ✨</i>
-</p>
+## Lore
+- I hoard CSS snippets like a dragon hoards treasure  
+- My commit messages range from “fixed it” to “why is this happening”  
+- I believe every project deserves a little bit of whimsy  
+- If you hear cackling, I’ve just solved a bug in the most unhinged way possible
+
+---
+
+## Seeking Fellow Adventurers
+Whether you’re a wandering bard, a rogue with a cool idea, or a wizard in need of a party member, feel free to send a message.  I’m always up for a quest.
+
 <p align="center">
   <img src="imgs/frog.png" alt="Froggy"/>
 </p>
